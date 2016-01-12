@@ -1,6 +1,6 @@
 # Summary
 
 * [Einführung](README.md)
-* [Übersicht](chapter1.md)
-* [Hauptfenster](mqttfx.md)
+* [Übersicht](overview.md)
+* [Hauptfenster](main_window.md)
 
