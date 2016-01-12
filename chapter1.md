@@ -1,4 +1,4 @@
-# Übersicht
+# Features
 
 * Verbindungsprofile für Brokerverbindungen
 * Ad-hoc Verbindungen
