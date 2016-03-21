@@ -4,6 +4,6 @@
 * [Main Window](main_window.md)
 * [Connection Profiles](connection_profiles.md)
 * [Broker Connection](broker_connection.md)
-* Publish
+* [Publish](publish.md)
 * Subscribe
 
