@@ -7,4 +7,4 @@ The profile editor can be opened either via the menu entry „Extras/Connection 
 
 All kind of settings for broker connections can be defined here: „broker address“ and „broker port“, client id and common values like „clean session“ and the MQTT protocol version…
 
-
+![](mqttfx_connectionprofiles_2.png)
