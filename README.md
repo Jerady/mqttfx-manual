@@ -35,8 +35,8 @@ https://learn.adafruit.com/desktop-mqtt-client-for-adafruit-io/overview) for **A
 
 
 
-## Connection Profiles
-![](mqttfx_connectionprofiles_2.png)
+
+
 
 ## Broker Connection
 To connect to a broker there are basically two options: ad-hoc or via the profile.
