@@ -51,17 +51,9 @@ Bundled installation packages for **Mac OSX**, **Windows** and **Linux** are ava
 
 "Bundled" means, the Java Runtime Environment to run the application is already included by the Installer, so no pre-installed JRE is needed. The bundles JRE is used only to run MQTT.fx. It is not installed on the System.
 
-![](mqttfx_install_1.png)
+
 
  
-## Updates
-The application is checking for available updates during start-up and prompting the user:
-
-![](mqttfx_updates_1.png)
-
-Loadable packages are listed, loaded and installed via the download dialog:
-
-![](mqttfx_updates_2.png)
 
 ## About the Author
 Jens Deters started with (home-) computing about 25 years ago. During the last 15 years he owned several roles in the IT & Telecommunication sector (Software Developer, Trainer, Consultant, Project Manager and Product Manager).

@@ -9,5 +9,5 @@
 * [Scripts](scripts.md)
 * [Broker Status](broker_status.md)
 * [Log](log.md)
-* Updates
+* [Updates](updates.md)
 
