@@ -6,5 +6,5 @@
 * [Broker Connection](broker_connection.md)
 * [Publish](publish.md)
 * [Subscribe](subscribe.md)
-* Scripts
+* [Scripts](scripts.md)
 
