@@ -2,5 +2,5 @@
 
 * [Einführung](README.md)
 * [Main Window](main_window.md)
-* Connection Profiles
+* [Connection Profiles](connection_profiles.md)
 
