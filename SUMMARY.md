@@ -8,5 +8,5 @@
 * [Subscribe](subscribe.md)
 * [Scripts](scripts.md)
 * [Broker Status](broker_status.md)
-* Log
+* [Log](log.md)
 

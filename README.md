@@ -43,11 +43,6 @@ https://learn.adafruit.com/desktop-mqtt-client-for-adafruit-io/overview) for **A
 
 
 
-## Log
-The „Log“ tab shows the logging console.
-The same information is also written to the mqttfx.log file located in the application configuration folder.
-
-![](mqttfx_log_1.png)
 
 ## Download and Installation
 Bundled installation packages for **Mac OSX**, **Windows** and **Linux** are available at [http://www.mqttfx.org](http://www.mqttfx.org).
