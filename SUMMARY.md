@@ -5,5 +5,5 @@
 * [Connection Profiles](connection_profiles.md)
 * [Broker Connection](broker_connection.md)
 * [Publish](publish.md)
-* Subscribe
+* [Subscribe](subscribe.md)
 
