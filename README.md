@@ -1,4 +1,4 @@
-# Introducing MQTT.fx 1.0.0
+# MQTT.fx 1.0.0
 *Rev.1.0*
 
 MQTT.fx aims to be an quick and easy to use desktop tool for MQTT debugging and testing.
