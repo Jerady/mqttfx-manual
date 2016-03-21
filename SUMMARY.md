@@ -1,6 +1,6 @@
 # Summary
 
-* [Einführung](README.md)
+* [Einführung](main.md)
 * [Main Window](main_window.md)
 * [Connection Profiles](connection_profiles.md)
 * [Broker Connection](broker_connection.md)
