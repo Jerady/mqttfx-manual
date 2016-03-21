@@ -7,4 +7,5 @@
 * [Publish](publish.md)
 * [Subscribe](subscribe.md)
 * [Scripts](scripts.md)
+* Broker Statsu
 
