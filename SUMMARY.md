@@ -10,5 +10,5 @@
 * [Broker Status](broker_status.md)
 * [Log](log.md)
 * [Updates](updates.md)
-* About
+* [About](about.md)
 
