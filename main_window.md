@@ -1,6 +1,7 @@
 # Main Window walktrough
 
-At the top of the main window you find the options to edit the broker connection profiles and to connect / disconnect to a broker based on the chooses method \(ad-hoc or via profile\).![](mqttfx_gui_main.png)
+At the top of the main window you find the options to edit the broker connection profiles and to connect / disconnect to a broker based on the chooses method \(ad-hoc or via profile\).
+![](/assets/mqttfx_gui_main.png)
 
 Each major use case has its own tab:
 
