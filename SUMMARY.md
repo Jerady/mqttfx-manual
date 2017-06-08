@@ -11,4 +11,5 @@
 * [Log View](log.md)
 * [Updates](updates.md)
 * [About](about.md)
+* [Custom Payload Decoders](custom-payload-decoders.md)
 
