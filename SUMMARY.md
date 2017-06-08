@@ -1,14 +1,14 @@
 # Summary
 
 * [Introduction](README.md)
-* [Main Window](main_window.md)
+* [Main Window Walkthrough](main_window.md)
 * [Connection Profiles](connection_profiles.md)
-* [Broker Connection](broker_connection.md)
-* [Publish](publish.md)
-* [Subscribe](subscribe.md)
-* [Scripts](scripts.md)
-* [Broker Status](broker_status.md)
-* [Log](log.md)
+* [Connect to a Broker](broker_connection.md)
+* [Publish Messages](publish.md)
+* [Subscribe to Topics](subscribe.md)
+* [Scripting](scripts.md)
+* [Broker Status View](broker_status.md)
+* [Log View](log.md)
 * [Updates](updates.md)
 * [About](about.md)
 
