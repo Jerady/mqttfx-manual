@@ -6,5 +6,5 @@ Subscribed topics are stored in the application configuration for later usage an
 Registered topics are listed on the left in the „Subscribe“ tab and can be unsubscribed by click on the „-“ icon \(or by being selected and a click on „Unsubscribe“\).  
 For better identification a color can be set for each topic. Received messages are colored according to the chosen topic color.
 
-![](mqttfx_subscribe.png)
+![](/assets/mqttfx_subscribe.png)
 

@@ -14,5 +14,5 @@ The Tabs are detachable so each tab content can be separated in a window. So a â
 
 If you close such a window it is moving back as a tab at the former position.
 
-![](mqttfx_detached_tabs.png)
+![](/assets/mqttfx_detached_tabs.png)
 
