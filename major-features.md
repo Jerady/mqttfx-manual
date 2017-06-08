@@ -1,4 +1,4 @@
-## Major features of MQTT.fx
+## Major features of MQTT.fx 1.5.0
 
 * Connection Profiles for different setup of MQTT broker connections
 * ad-hoc connections
